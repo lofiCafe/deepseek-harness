@@ -1,0 +1,58 @@
+# Bilingual-pair consistency record for dshroid-plan.md (docs/i18n/README.md): per heading
+# section, a hash of its English and Chinese blocks outside code blocks and generated regions.
+# After editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write docs/dshroid-plan.md
+/:
+  en: 48c62ab7b4efd20e
+  zh: 4bbc365f3b055994
+/dshroid-development-plan:
+  en: 8cc2e4ef02ccf23e
+  zh: dd0121b5ed712d65
+/dshroid-development-plan/summary:
+  en: a01ce9d18fa6f8d2
+  zh: 175fc659846a847e
+/dshroid-development-plan/table-of-contents:
+  en: 73b4c9c63fc70380
+  zh: 7dee969d0e795a5b
+/dshroid-development-plan/goals-and-scope:
+  en: c17087fbc3efd2b1
+  zh: 8cb22b9d405d0537
+/dshroid-development-plan/existing-capabilities-and-plan-corrections:
+  en: ab9ee4a8b8b897a3
+  zh: 9947242e2a7acab1
+/dshroid-development-plan/community-code-reuse:
+  en: 8576e8123d56a865
+  zh: f033b8d44dbd2a32
+/dshroid-development-plan/technical-design:
+  en: a2189b76db374cda
+  zh: 2defeda5fa644e8c
+/dshroid-development-plan/task-and-prompt-semantics:
+  en: c273d9e9b1bc902e
+  zh: 1056802732f74062
+/dshroid-development-plan/task-and-prompt-semantics/data-and-identity:
+  en: d0614914c2cfe5df
+  zh: c834e76e985a95fb
+/dshroid-development-plan/task-and-prompt-semantics/prompts-and-stopping:
+  en: 4a96df31244d9369
+  zh: 77429d685d6a965b
+/dshroid-development-plan/task-and-prompt-semantics/state-and-recovery:
+  en: b9584beb260e18b0
+  zh: 67e951535b47f611
+/dshroid-development-plan/task-and-prompt-semantics/code-changes-and-later-diffs:
+  en: b2b0dcd826411c5e
+  zh: 70243626a68a02de
+/dshroid-development-plan/remote-access-and-device-management:
+  en: 21cc17ac5a675415
+  zh: 72363a6db1bffd0d
+/dshroid-development-plan/milestones-and-estimates:
+  en: 461810ff062aa8a0
+  zh: af4791e78aca3d00
+/dshroid-development-plan/acceptance-and-review-evidence:
+  en: 1f6e115c67232ae8
+  zh: f8a153a14dc92202
+/dshroid-development-plan/glm-implementation-handoff:
+  en: e5ff0b3d664f60dc
+  zh: 510ca2893a08776d
+/dshroid-development-plan/dev-note:
+  en: 881379959d30deb3
+  zh: b8647f3e59fbef02
